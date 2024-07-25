@@ -1,6 +1,7 @@
 [![Header](https://github.com/SergeyYan/SergeyYan/blob/assets/Header.png)](https://hh.ru/resume/eb558dc4ff032efb870039ed1f4979414f3574)
 
 About me:
+
 I'm a novice tester.
 ##
 
