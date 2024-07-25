@@ -4,7 +4,7 @@ About me
 I'm a novice tester.
 
 Here are some ideas to get you started:
-![Manual testing](https://img.shields.io/badge/-Manual testing-blue)
+![Manual testing](https://img.shields.io/badge/-Manual_testing-blue)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
