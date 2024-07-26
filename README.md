@@ -9,12 +9,12 @@ I'm a novice tester.
 ##
 
 ### What am I studying now:
-![Manual testing](https://img.shields.io/badge/-Manual_testing-blue)
-![Manual testing](https://img.shields.io/badge/-Bug_report-red)
-![Manual testing](https://img.shields.io/badge/-Check_list-yellow)
-![Manual testing](https://img.shields.io/badge/-Test_cases-green)
-![Manual testing](https://img.shields.io/badge/-Jira-orange)
-![Manual testing](https://img.shields.io/badge/-Github-gray)
+![Manual testing](https://img.shields.io/badge/-Manual_testing-blue) 
+![Manual testing](https://img.shields.io/badge/-Bug_report-red) 
+![Manual testing](https://img.shields.io/badge/-Check_list-yellow) 
+![Manual testing](https://img.shields.io/badge/-Test_cases-green) 
+![Manual testing](https://img.shields.io/badge/-Jira-orange) 
+![Manual testing](https://img.shields.io/badge/-Github-gray) 
 ##
 
 ### How to reach me:
