@@ -1,11 +1,11 @@
-[![Header](https://github.com/SergeyYan/SergeyYan/blob/assets/Header.png)](https://hh.ru/resume/eb558dc4ff032efb870039ed1f4979414f3574)
+[![Header](https://github.com/SergeyYan/SergeyYan/blob/assets/Header.png)](https://hh.ru/applicant/resumes/view?resume=eb558dc4ff032efb870039ed1f4979414f3574)
 
 ### About me:
 I'm a novice tester.
 ##
 
 ### My CV:
-[Link to my CV](https://hh.ru/resume/eb558dc4ff032efb870039ed1f4979414f3574)
+[Link to my CV](https://hh.ru/applicant/resumes/view?resume=eb558dc4ff032efb870039ed1f4979414f3574)
 ##
 
 ### What am I studying now:
